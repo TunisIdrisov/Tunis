@@ -130,6 +130,15 @@ namespace WinFormsApp1
     }
 }
 
+                                        
+                                          
+
+
+
+
+            
+design hissesi
+
 
 
 namespace WinFormsApp1
